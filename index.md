@@ -11,7 +11,7 @@ Provides Structure of a web page | Provides design to a web page
 
 ## Rate Us!
 
-- [] Good
-- [] Better
+- [ ] Good
+- [ ] Better
 - [x] Best
 Learn more at ![Oncampus](dev.oncampus.cloud)
